@@ -1,0 +1,102 @@
+html { 
+	background: url("https://images.pexels.com/photos/935876/pexels-photo-935876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  }
+
+
+
+h1, h2{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+
+h1{
+position: relative;
+  left: 180px;
+  font-size: 40px;
+  color: rgb(150, 89, 141);
+  text-shadow: 2px 2px plum;
+}
+
+h2{
+	position: relative;
+	left: 60px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+	color: rgb(177, 74, 177);
+	text-shadow: 2px 2px plum;
+}
+
+
+.rules{
+	text-align: 40%;
+	list-style-position: inside;
+	font-size: 17px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: rgb(109, 57, 109);
+}
+
+.Treats{
+	display: flex;
+	
+}
+
+.treat{
+	border:1px solid rgb(177, 124, 141);
+	box-shadow: 5px 5px 5px #e044d380;
+	height:200px;
+	width: 200px;
+	border-radius: 4px;
+}
+
+.container{
+	position: relative;
+    left: 110px;
+    font-size: 40px;
+	background-color: whitesmoke;
+    width: 650px;
+	border: 5px solid pink;
+	padding: 2px;
+
+}
+
+#myBudget{
+	font-size: 22px;
+	font-display: bold;
+	color: rgb(91, 72, 72);
+	text-shadow: 2px 2px rgb(187, 187, 118);
+
+}
+
+#Total{
+	font-size:22px;
+	color: rgb(91, 72, 72);
+	text-shadow: 2px 2px rgb(187, 187, 118);
+
+}
+
+#win{
+	color: red;
+	position: absolute;
+    left: 250px;
+    bottom: 300px;
+    font-size: 22px;
+}
+
+#lost{
+	color: red;
+	position: absolute;
+    left: 450px;
+    bottom: 300px;
+    font-size: 22px;
+
+}
+
+
+
+
+
+
