@@ -1,6 +1,6 @@
 # Unit-4-Game
 
-*** PseudoCode **
+*** PseudoCode**
 
 1. Create instructions for players 
 2. have a random number generator between 19-120
@@ -10,4 +10,6 @@
 6. if the player matches the comuputers number with the sum of their crystal numbers they get a win
 7. if they go over they get a lose
 8. new random number is generated for the computer and the crystals
+
+*** decided to change Crystals to treats**
 
